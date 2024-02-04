@@ -1,0 +1,10 @@
+1. Can you explain the difference between bias and variance?
+2. What algorithm would you use in the case of low bias and high variance?
+3. Explain the relation between recall and true positive rate 
+4. When can you prefer ridge regression over lasso regression? 
+5. Explain how you choose variables when working on a data set
+6. Explain the differences between correlation and covariance
+7. What's the difference between random-forest and gradient-boosting algorithms?
+8. Explain the meaning of convex hull
+9. Would you use a K-fold or LOOCV cross-validation method on a time series dataset?
+10. Why wouldn't you use Manhattan distance to calculate the distance between nearest neighbors with K-means or KNN?
